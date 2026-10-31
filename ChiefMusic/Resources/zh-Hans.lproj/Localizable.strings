@@ -1,0 +1,65 @@
+/* macOS Menu Bar - Chinese */
+/* Application Menu */
+"About ChiefMusic" = "关于 ChiefMusic";
+"Hide ChiefMusic" = "隐藏 ChiefMusic";
+"Hide Others" = "隐藏其他";
+"Show All" = "显示全部";
+"Quit ChiefMusic" = "退出 ChiefMusic";
+
+/* File Menu */
+"File" = "文件";
+"New" = "新建";
+"Open" = "打开";
+"Close Window" = "关闭窗口";
+"Save" = "保存";
+"Save As" = "存储为";
+"Revert to Saved" = "恢复已保存版本";
+"Page Setup" = "页面设置";
+"Print" = "打印";
+
+/* Edit Menu */
+"Edit" = "编辑";
+"Undo" = "撤销";
+"Redo" = "重做";
+"Cut" = "剪切";
+"Copy" = "拷贝";
+"Paste" = "粘贴";
+"Delete" = "删除";
+"Select All" = "全选";
+
+/* View Menu */
+"View" = "显示";
+"Show Toolbar" = "显示工具栏";
+"Customize Toolbar" = "自定工具栏";
+"Show Sidebar" = "显示侧边栏";
+"Enter Full Screen" = "进入全屏幕";
+"Exit Full Screen" = "退出全屏幕";
+
+/* Window Menu */
+"Window" = "窗口";
+"Minimize" = "最小化";
+"Zoom" = "缩放";
+"Bring All to Front" = "将所有窗口移到前面";
+
+/* Help Menu */
+"Help" = "帮助";
+"ChiefMusic Help" = "ChiefMusic 帮助";
+
+/* Format */
+"Format" = "格式";
+"Font" = "字体";
+"Bold" = "粗体";
+"Italic" = "斜体";
+"Underline" = "下划线";
+"Show Fonts" = "显示字体";
+"Show Colors" = "显示颜色";
+
+/* Services */
+"Services" = "服务";
+
+/* Standard buttons */
+"OK" = "好";
+"Cancel" = "取消";
+"Yes" = "是";
+"No" = "否";
+"Done" = "完成";
